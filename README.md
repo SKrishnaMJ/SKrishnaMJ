@@ -7,7 +7,7 @@
   </p>
   <div>
     <a target="_blank">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="400" height="300">
+      <img src="https://media.giphy.com/media/xT1R9G7i8Uo5PVeFyw/giphy.gif?cid=790b7611d26uf97mfnm3o0yjd1y71zlq4g7vlwmwq12z38k7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="400" height="300">
     </a>
   </div>
 </div>
@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Let's Connect 🤝</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/xT1R9G7i8Uo5PVeFyw/giphy.gif?cid=790b7611d26uf97mfnm3o0yjd1y71zlq4g7vlwmwq12z38k7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30" height="30"> Let's Connect 🤝</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saikrishnamovvajaya/" target="_blank">
