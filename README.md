@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Krishna</h1>
-<h3 align="center">A Passionate Backend Developer from Arlington, Texas</h3>
+<h3 align="center">A Passionate Software Engineer from Arlington, Texas</h3>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <p>
@@ -7,7 +7,7 @@
   </p>
   <div>
     <a target="_blank">
-      <img src="https://media.giphy.com/media/xT1R9G7i8Uo5PVeFyw/giphy.gif?cid=790b7611d26uf97mfnm3o0yjd1y71zlq4g7vlwmwq12z38k7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="400" height="300">
+<!--       <img src="https://media.giphy.com/media/xT1R9G7i8Uo5PVeFyw/giphy.gif?cid=790b7611d26uf97mfnm3o0yjd1y71zlq4g7vlwmwq12z38k7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="400" height="300"> -->
     </a>
   </div>
 </div>
